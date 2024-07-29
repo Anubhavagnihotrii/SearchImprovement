@@ -1,0 +1,424 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "original_title": "Inside Out 2",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+            "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "popularity": 4659.516,
+            "release_date": "2024-06-11",
+            "video": false,
+            "vote_average": 7.632,
+            "vote_count": 2104
+        },
+        {
+            "backdrop_path": "/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
+            "id": 762441,
+            "title": "A Quiet Place: Day One",
+            "original_title": "A Quiet Place: Day One",
+            "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+            "poster_path": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 931.012,
+            "release_date": "2024-06-26",
+            "video": false,
+            "vote_average": 6.811,
+            "vote_count": 515
+        },
+        {
+            "backdrop_path": "/wXx72bbhhnfORmlSNMWR28fPd8b.jpg",
+            "id": 1086747,
+            "title": "The Watchers",
+            "original_title": "The Watchers",
+            "overview": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+            "poster_path": "/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                9648,
+                53,
+                27
+            ],
+            "popularity": 343.218,
+            "release_date": "2024-06-06",
+            "video": false,
+            "vote_average": 6.533,
+            "vote_count": 565
+        },
+        {
+            "backdrop_path": "/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+            "id": 1001311,
+            "title": "Under Paris",
+            "original_title": "Sous la Seine",
+            "overview": "In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.",
+            "poster_path": "/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "fr",
+            "genre_ids": [
+                28,
+                18,
+                27,
+                53
+            ],
+            "popularity": 770.359,
+            "release_date": "2024-06-04",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 945
+        },
+        {
+            "backdrop_path": "/5g2n3ilC8DpYv4diJeuQ1vKG2Kb.jpg",
+            "id": 519182,
+            "title": "Despicable Me 4",
+            "original_title": "Despicable Me 4",
+            "overview": "Gru and Lucy and their girls — Margo, Edith and Agnes — welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+            "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                28
+            ],
+            "popularity": 3342.806,
+            "release_date": "2024-06-20",
+            "video": false,
+            "vote_average": 7.212,
+            "vote_count": 427
+        },
+        {
+            "backdrop_path": "/iIvjwrDPQHCU4NjbbKpNs88uk6G.jpg",
+            "id": 1048241,
+            "title": "My Spy The Eternal City",
+            "original_title": "My Spy The Eternal City",
+            "overview": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+            "poster_path": "/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 1779.721,
+            "release_date": "2024-07-18",
+            "video": false,
+            "vote_average": 6.811,
+            "vote_count": 143
+        },
+        {
+            "backdrop_path": "/xk2y81O2FljJwuyFP1HoJnCO8ed.jpg",
+            "id": 823464,
+            "title": "Godzilla x Kong: The New Empire",
+            "original_title": "Godzilla x Kong: The New Empire",
+            "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+            "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 846.453,
+            "release_date": "2024-03-27",
+            "video": false,
+            "vote_average": 7.19,
+            "vote_count": 3277
+        },
+        {
+            "backdrop_path": "/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+            "id": 280180,
+            "title": "Beverly Hills Cop: Axel F",
+            "original_title": "Beverly Hills Cop: Axel F",
+            "overview": "Forty years after his unforgettable first case in Beverly Hills, Detroit cop Axel Foley returns to do what he does best: solve crimes and cause chaos.",
+            "poster_path": "/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 908.004,
+            "release_date": "2024-06-20",
+            "video": false,
+            "vote_average": 6.904,
+            "vote_count": 717
+        },
+        {
+            "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+            "id": 653346,
+            "title": "Kingdom of the Planet of the Apes",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 1649.421,
+            "release_date": "2024-05-08",
+            "video": false,
+            "vote_average": 7.169,
+            "vote_count": 2117
+        },
+        {
+            "backdrop_path": "/xGhwfRxTsP9VhDSNsfHqBcRvWKY.jpg",
+            "id": 59053,
+            "title": "The Raffle",
+            "original_title": "La Riffa",
+            "overview": "Struggling with a financial crisis, a good-looking widow decides to put herself up for grabs. However, going through with it becomes almost impossible with a new love and the legal system thrown into the mix.",
+            "poster_path": "/2Jc60w8ZemDMYqyJUStcQKy6syi.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "it",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 171.987,
+            "release_date": "1991-11-15",
+            "video": false,
+            "vote_average": 6.647,
+            "vote_count": 156
+        },
+        {
+            "backdrop_path": "/bVigVS3LVotEK4GsBlGOagkjPEc.jpg",
+            "id": 1008409,
+            "title": "The Bikeriders",
+            "original_title": "The Bikeriders",
+            "overview": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+            "poster_path": "/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 173.433,
+            "release_date": "2024-06-19",
+            "video": false,
+            "vote_average": 7.029,
+            "vote_count": 324
+        },
+        {
+            "backdrop_path": "/cZmOrIOkJ2SNfVdiO85dUbOAYnL.jpg",
+            "id": 1012201,
+            "title": "HAIKYU!! The Dumpster Battle",
+            "original_title": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+            "overview": "Shoyo Hinata joins Karasuno High's volleyball club to be like his idol, a former Karasuno player known as the 'Little Giant'. But Hinata soon learns that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles form a surprising weapon, but can their newfound teamwork defeat their rival Nekoma High in the highly anticipated 'Dumpster Battle', the long awaited ultimate showdown between two opposing underdog teams?",
+            "poster_path": "/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                18
+            ],
+            "popularity": 226.169,
+            "release_date": "2024-02-16",
+            "video": false,
+            "vote_average": 7.141,
+            "vote_count": 78
+        },
+        {
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "id": 746036,
+            "title": "The Fall Guy",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 486.126,
+            "release_date": "2024-04-24",
+            "video": false,
+            "vote_average": 7.213,
+            "vote_count": 1665
+        },
+        {
+            "backdrop_path": "/fZv4EldEPurSz0d2uVIoL4Sng8x.jpg",
+            "id": 1016346,
+            "title": "MR-9: Do or Die",
+            "original_title": "MR-9: Do or Die",
+            "overview": "Elite Bangladeshi CIA agent Masud Rana – codename MR-9 – teams up with an American CIA operative to bring down an international criminal organization headed by a ruthless businessman.",
+            "poster_path": "/yF2g3MDacpZTMywh97qghW6Y0H4.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "bn",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 486.048,
+            "release_date": "2023-08-25",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 125
+        },
+        {
+            "backdrop_path": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+            "id": 974635,
+            "title": "Hit Man",
+            "original_title": "Hit Man",
+            "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+            "poster_path": "/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                35,
+                10749
+            ],
+            "popularity": 189.73,
+            "release_date": "2024-05-16",
+            "video": false,
+            "vote_average": 7.024,
+            "vote_count": 592
+        },
+        {
+            "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+            "id": 786892,
+            "title": "Furiosa: A Mad Max Saga",
+            "original_title": "Furiosa: A Mad Max Saga",
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 1464.685,
+            "release_date": "2024-05-22",
+            "video": false,
+            "vote_average": 7.652,
+            "vote_count": 2329
+        },
+        {
+            "backdrop_path": "/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+            "id": 1087388,
+            "title": "Sting",
+            "original_title": "Sting",
+            "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+            "poster_path": "/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 161.496,
+            "release_date": "2024-04-12",
+            "video": false,
+            "vote_average": 6.418,
+            "vote_count": 164
+        },
+        {
+            "backdrop_path": "/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+            "id": 639720,
+            "title": "IF",
+            "original_title": "IF",
+            "overview": "A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+            "poster_path": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "popularity": 417.904,
+            "release_date": "2024-05-08",
+            "video": false,
+            "vote_average": 7.351,
+            "vote_count": 690
+        },
+        {
+            "backdrop_path": "/tXVFTO1WkkdlAj8Jgk0B6KX1IYM.jpg",
+            "id": 1189927,
+            "title": "The Duel",
+            "original_title": "El duelo",
+            "overview": "Ernesto lives in depression and decides to hire a hit-man to end his own life. However, his plan takes an unexpected turn when he meets Rita, whose love gives him a new reason to live.",
+            "poster_path": "/nFjcIyURaXrU4WWRN7obbipFQGy.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "es",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 34.303,
+            "release_date": "2023-10-12",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 179
+        },
+        {
+            "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+            "id": 929590,
+            "title": "Civil War",
+            "original_title": "Civil War",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 639.358,
+            "release_date": "2024-04-10",
+            "video": false,
+            "vote_average": 6.983,
+            "vote_count": 1995
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+}
